@@ -2,7 +2,6 @@
 # Makefile for sort application
 # CMP_SC 3050
 # SP 2023
-# By Jim Ries (RiesJ@missouri.edu)
 ##############################################################################
 CC = gcc
 CFLAGS = -Wall -Werror -c -g -std=c11 -I.
